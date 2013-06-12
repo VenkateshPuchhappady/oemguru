@@ -1,0 +1,60 @@
+body {
+    color: #2e2e2e;
+    font-size: 15px;
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+#navigation ul li a {
+    color: #777777;
+    font-size: 13px;
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: capitalize;
+}
+#navigation ul.sub-menu li a {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: capitalize;
+}
+h1 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+    font-size: 24px;
+}
+h2 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+    font-size: 20px;
+}
+h3 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+    font-size: 18px;
+}
+h4 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+    font-size: 16px;
+}
+h5 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+    font-size: 14px;
+}
+h6 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+    font-size: 12px;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #333333;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 100;
+    font-style: normal;
+}
+.caption.themecolor_background {
+    background-color: #6d0078;
+}
+.caption.themecolor_normal {
+    color: #6d0078;
+}
